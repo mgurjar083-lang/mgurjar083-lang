@@ -1,4 +1,3 @@
-# Me
 <h1 align="center">Hey 👋 I am Mayank Gurjar<br>Java Full Stack Developer</h1>
 
 ###
