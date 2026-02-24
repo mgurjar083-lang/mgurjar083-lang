@@ -46,7 +46,7 @@
 
 <div align="center">
 <a
-  href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mayank-gurjar-msg/)"
+  href="https://www.linkedin.com/in/mayank-gurjar-msg/"
   target="_blank"
   rel="noopener noreferrer"
 >
